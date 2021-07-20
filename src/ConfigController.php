@@ -78,7 +78,7 @@ class ConfigController
 
         $grid->id('ID')->sortable();
         $grid->name()->display(function ($name) {
-            return "<a tabindex=\"0\" class=\"btn btn-xs btn-twitter\" role=\"button\" data-toggle=\"popover\" data-html=true title=\"Usage\" data-content=\"<code>config('$name');</code>\">$name</a>";
+            return "<a tabindex=\"0\" class=\"badge bg-primary prevent-tr text-decoration-none\" role=\"button\" data-bs-toggle=\"popover\"  title=\"Usage\" data-bs-html=\"true\" data-bs-content=\"<code>config('$name');</code>\">$name</a>";
         });
         $grid->value();
         $grid->description();

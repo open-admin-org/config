@@ -1,7 +1,7 @@
 Config manager for open-admin
 ========================
 
-[![StyleCI](https://styleci.io/repos/97900916/shield?branch=main)](https://styleci.io/repos/97900916)
+[![StyleCI](https://styleci.io/repos/387844084/shield?branch=main)](https://styleci.io/repos/97900916)
 [![Packagist](https://img.shields.io/github/licence/open-admin-org/config.svg?style=flat-square&color=brightgreen)](https://packagist.org/packages/open-admin-ext/config)
 [![Total Downloads](https://img.shields.io/packagist/dt/open-admin-ext/config.svg?style=flat-square)](https://packagist.org/packages/open-admin-ext/config)
 [![Pull request welcome](https://img.shields.io/badge/pr-welcome-green.svg?style=flat-square&color=brightgreen)]()
@@ -11,7 +11,7 @@ Config manager for open-admin
 
 ## Screenshot
 
-![wx20170810-100226](https://user-images.githubusercontent.com/1479100/29151322-0879681a-7db3-11e7-8005-03310686c884.png)
+![config screenshot](https://open-admin.org/docs/images/screenshots/ext-config.png)
 
 ## Installation
 
